@@ -1,0 +1,3 @@
+Hello,
+I am Siddhant Sengar.I am from Giridih,Jharkhand.I am pursuing my 4 year Degree course of B.tech in Computer Science & Engineering from Dr.B.C. Roy Engineering College,Durgapur,West Bengal,India.
+I am participating in Dgplug Summer Training,2013 through IRC in #dgplug channel of freenode network.This is my first time experience to participate in such type of training through online medium and i personally found it very interesting and easy knowledge acquiring process and through this training i came across manyknowledgeable persons,which also very helpful and now i am completely sure that whatever i am learning from this training will be very helpful for my future aspects. 
